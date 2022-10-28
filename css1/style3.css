@@ -1,0 +1,39 @@
+.noo{
+     width: 1350px;
+     height: 155px;
+     margin-top: 0em;
+     margin-bottom: 0em;
+}
+.noo h1{
+     margin-top: 0em;
+     margin-bottom: 0em;
+     padding: 75px 16px;
+     text-align: center;
+     font-style: italic;
+     font-size: 5em;
+     text-decoration: none;
+     display: block;
+     font-weight: bold;
+     color: aqua;
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAACMqnT_XrghO-TCvn2hrxWWIh8CLpSlG6Q&usqp=CAU');
+     background-size: 320px;
+}
+
+.noos{
+     width: 1350px;
+     height: 600px;
+}
+
+.noos h2{
+     margin-top: 1.5em;
+     margin-bottom: 0em;
+     padding: 185px 16px;
+     text-align: center;
+     font-family: cursive;
+     font-size: 3.5em;
+     text-decoration: none;
+     font-weight: bold;
+     color: darkred;
+     background-image: url('https://c.ndtvimg.com/2022-02/5upo7nf8_propose-day_625x300_07_February_22.jpg?im=FaceCrop,algorithm=dnn,width=345,height=250?downsize=100:*');
+     background-size: 750px;
+}

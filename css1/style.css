@@ -1,0 +1,54 @@
+.greethead{
+     width: 1350px;
+     height: 125px;
+     margin-top: 0em;
+     margin-bottom: 0em;
+}
+.greethead h1{
+     margin-top: 0em;
+     margin-bottom: 0em;
+     padding: 18px 16px;
+     text-align: center;
+     font-style: italic;
+     font-size: 5em;
+     text-decoration: none;
+     display: block;
+     font-weight: bold;
+     color: linen;
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvMMQ_n-YGYflVvgOx2brW02WCndAgjDo-g&usqp=CAU');
+}
+.greethead h1:hover{
+     background-image: url('https://i.pinimg.com/550x/9b/c0/c1/9bc0c1117d0857a85ce3ab2055479cb5.jpg');
+}
+.lineh{
+     width: 1350px;
+     height: 600px;
+     background-image: url('https://images.unsplash.com/photo-1615966650071-855b15f29ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y291cGxlJTIwaW4lMjBsb3ZlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+     background-size: 1400px;
+}
+.lineh h2{
+     margin-top: 0em;
+     margin-bottom: 0em;
+     padding: 95px 16px;
+     text-align: center;
+     font-family: cursive;
+     font-size: 3.5em;
+     text-decoration: none;
+     font-weight: bold;
+     color: lemonchiffon;
+}
+.lineh input{
+     margin-top: 6px;
+     margin-left: 30px;
+     margin-right: 30px;
+     height: 100px;
+     width: 200px;
+     font-size: 2em;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background-color: red;
+     }
+
+     .lineh input:hover{
+          background-color: springgreen;
+     }
+     

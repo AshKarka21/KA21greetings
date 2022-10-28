@@ -1,0 +1,38 @@
+.hgs{
+     width: 1350px;
+     height: 600px;
+     margin-top: 0em;
+     margin-bottom: 0em;
+     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG57GrRFnnth7K19uWGu_NkpPHMZj3MDZCtw&usqp=CAU');
+     background-size: 470px;
+}
+.hgs h1{
+     text-align: center;
+     width: 1350px;
+     height: 175px;
+     margin-top: 0em;
+     margin-bottom: 0em;
+     padding: 125px 16px;
+     text-align: center;
+     font-style: italic;
+     font-size: 5em;
+     text-decoration: none;
+     display: block;
+     font-weight: bold;
+     color:thistle;
+     background-image: url('');
+}
+
+.hgs input{
+     margin-top: 0px;
+     margin-left: 30px;
+     margin-right: 30px;
+     height: 100px;
+     width: 200px;
+     font-size: 2em;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background-color: red;
+}
+.hgs input:hover{
+     background-color: springgreen;
+}
